@@ -264,9 +264,8 @@ body {
       .sidebar {
           width: 0%
       }
-      .portfolio {
-        width: 100%;
-      }
+      
+      
      
 }
 
@@ -292,10 +291,6 @@ body {
                 width: 30%
             }
 
-            }
-            .portfolio {
-                width: 100%;
-            }
         }
 
 
